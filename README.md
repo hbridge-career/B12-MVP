@@ -1,7 +1,8 @@
 
   # Project Planning and Execution
 
-  This is a code bundle for Project Planning and Execution. The original project is available at https://www.figma.com/design/spEjfh1H7yrXO4eghgBi3A/Project-Planning-and-Execution.
+  This is a code bundle for Project Planning and Execution.
+  https://interface-refinement.vercel.app/
 
   ## Running the code
 
